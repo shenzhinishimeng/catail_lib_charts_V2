@@ -39,4 +39,6 @@ dependencies {
 
 //    implementation project(':lib_Charts')
     implementation project(':aa_chart_core')
+//    implementation 'com.github.shenzhinishimeng:catail_lib_charts_V2:2.0.1'//AAChart 统计图(2024.04.7新版本)
+
 }
